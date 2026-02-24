@@ -1,9 +1,7 @@
 # 💻 Developer Portfolio
 
 Welcome to my personal developer portfolio website! 🚀  
-This project showcases my skills, projects, and experience as a web developer.
-
----
+This project showcases my skills, projects, and experience as a web developer
 
 ## 📌 About The Project
 
@@ -44,29 +42,6 @@ portfolio/
 │    └── icons/
 ```
 
----
-
-## 🚀 Getting Started
-
-To run this project locally:
-
-1. Clone the repository:
-
-```
-git clone https://github.com/your-username/your-repository-name.git
-```
-
-2. Open the project folder.
-3. Open `index.html` in your browser.
-
----
-
-## 📸 Preview
-
-(Add a screenshot of your project here)
-
----
-
 ## 📈 Future Improvements
 
 - Add dark mode
@@ -78,16 +53,7 @@ git clone https://github.com/your-username/your-repository-name.git
 
 ## 📬 Contact
 
-- GitHub: https://github.com/your-username
-- Email: your-email@example.com
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/mugambimutugi-ctrl
+- Email: mugambimutugi012@gmail.com
 
----
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-⭐ If you like this project, consider giving it a star!
