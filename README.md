@@ -53,7 +53,7 @@ portfolio/
 
 ## 📬 Contact
 
-- GitHub: https://github.com/mugambimutugi-ctrl
+- GitHub: https://github.com/mugambimutugi012-ctrl
 - Email: mugambimutugi012@gmail.com
 
 
